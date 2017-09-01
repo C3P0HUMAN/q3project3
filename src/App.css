@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+#cardy {
+margin-top: 350px;
+}
+
+
+.container{
+  height: 100vh;
+}
+
+.holder{
+  width: 100%;
+  margin: 10% auto;
+  text-align: center;
+}
+
+
+
+.title{
+  font-size: 5em;
+  text-align: center;
+}
+
+.myBtn{
+  height: 150px;
+  width: 80%;
+  padding: 56px;
+}
+
+
+
+body {
+  background-color: white;
+  height: 100%;
+  width: 100%;
+  margin: 0px auto;
+}
